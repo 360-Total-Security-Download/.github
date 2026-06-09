@@ -37,7 +37,7 @@ People searching how to uninstall 360 total security or 360 total security unins
 - Security status checks that make 360 total security antivirus easier to understand  
 - Upgrade paths for users comparing 360 total security premium with the free edition  
 
-![360 Total Security dashboard with scan and cleanup panels](https://static.360totalsecurity.com/home/images/features/ts/full-check.de-c77d60d5.png)
+![360 Total Security dashboard with scan and cleanup panels](https://www.snapfiles.com/screenfiles/360is2.png)
 
 ## Compatibility and Setup Details
 
